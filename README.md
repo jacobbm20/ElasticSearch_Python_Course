@@ -4,7 +4,7 @@ Welcome to the Elasticsearch Python Tutorial repository! This resource is design
 
 ## Repository contents
 
-- `notebooks/`: Jupyter notebooks with hands-on ElasticSearch examples.
+- `notebooks/`: Jupyter notebooks with hands-on Elasticsearch examples.
 - `slides/`: Presentation slides used in the YouTube series.
 - `data/`: Datasets used in the tutorials.
 
@@ -12,7 +12,7 @@ Welcome to the Elasticsearch Python Tutorial repository! This resource is design
 
 In this YouTube series, we explain some concepts in details. Each video corresponds to specific notebooks. The notebooks have a prefix in this format `<video_number>_notebook_name`, for example `3_create_index` corresponds to the 3rd video in the series.
 
-[Watch the ElasticSearch Python tutorial series](https://www.youtube.com/watch?v=U3EUBGMVWZ4&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
+[Watch the Elasticsearch Python tutorial series](https://www.youtube.com/watch?v=U3EUBGMVWZ4&list=PLMSb3cZXtIfpiHVLwXhaWk3KDXuklHdj5)
 
 ## Getting started
 
@@ -34,7 +34,7 @@ In this YouTube series, we explain some concepts in details. Each video correspo
 
 - Basic Python knowledge
 - Familiarity with data structures and JSON
-- ElasticSearch installed locally or access to a remote instance, watch this [video](https://www.youtube.com/watch?v=U3EUBGMVWZ4) to install ElasticSearch locally.
+- Elasticsearch installed locally or access to a remote instance, watch this [video](https://www.youtube.com/watch?v=U3EUBGMVWZ4) to install Elasticsearch locally.
 
 ## Contributing
 
@@ -44,4 +44,4 @@ We welcome contributions! If you find any issues or have suggestions for improve
 
 For any questions or feedback, please reach out to [simad3647@gmail.com](mailto:simad3647@gmail.com) or leave a comment on the YouTube videos.
 
-Happy learning, and enjoy your journey into ElasticSearch with Python!
+Happy learning, and enjoy your journey into Elasticsearch with Python!
