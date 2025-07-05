@@ -1,4 +1,4 @@
-# ElasticSearch Python Tutorial
+# Elasticsearch Python Tutorial
 
 Welcome to the Elasticsearch Python Tutorial repository! This resource is designed to help you get better at Elasticsearch using the Python client. Inside, you'll find notebooks, slides, and a YouTube series to guide you through the learning process.
 
